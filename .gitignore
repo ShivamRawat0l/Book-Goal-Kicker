@@ -3,12 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# PDF Files
+*.pdf
+
 # C extensions
 *.so
 
 # Distribution / packaging
 .Python
 env/
+venv/
 build/
 develop-eggs/
 dist/
